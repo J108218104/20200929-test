@@ -27,7 +27,7 @@ __This will also be bold__
     * Item 3b
   
 ## IMAGES
-![GitHub Logo](./wadog.png "內有惡犬")
+![Cute dog](./wadog.gif "內有惡犬")
 Format: ![Alt Text](url)
 
 ![NKUST](school.jpg "活力圖檔")
