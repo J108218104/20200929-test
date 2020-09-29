@@ -1,9 +1,13 @@
+## HEADERS
+
 # 20200929-test
 ## 20200929-test
 ### 20200929-test
 #### 20200929-test
 ##### 20200929-test
 ###### 20200929-test
+
+## EMPHASIS
 
 *This test will be italic*
 
@@ -15,10 +19,15 @@ __This will also be bold__
 
 *You **can** combine them*
 
+## LISTS
+### Unorderd
+
 * Item 1
 * Item 2
   * Item 2a
   * Item 2b
+
+### Odered
 
 1. Item 1
 2. Item 2
@@ -28,18 +37,20 @@ __This will also be bold__
   
 ## IMAGES
 ![Cute dog](./wadog.gif "內有惡犬")
-Format: ![Alt Text](url)
-
-![NKUST](school.jpg "活力圖檔")
 
 ## LINKS
-https://github.com - automatic!
-[GitHub](https://www.nkust.edu.tw/)
+(https://www.nkust.edu.tw/
+[國立高雄科技大學](https://www.nkust.edu.tw/)
 
 
 ## BLOCKQUOTES
 As Kanye West said:
 > We're Living the futures so
 > the present is our past.
+
+## BACKSLASH ESCAPES
+\* literal asterisks\*
+\( literal asterisks\)
+\{ literal asterisks\}
 
 
