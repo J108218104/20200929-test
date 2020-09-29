@@ -26,3 +26,13 @@ __This will also be bold__
     * Item 3a
     * Item 3b
   
+## IMAGES
+![GitHub Logo](/images/logo.png "活力圖檔")
+Format: ![Alt Text](url)
+
+![NKUST](school.jpg "活力圖檔")
+
+## LINKS
+https://github.com - automatic!
+[GitHub](https://www.nkust.edu.tw/)
+
